@@ -9,4 +9,4 @@ My machine has the following specs:
 * ZR V2.5 with Wooble Rings by EvoMoto
 * Nema 17 motors by E3D
 * BTT Octopus v1.1
-* TMC5160 UART
+* TMC5160 SPI
